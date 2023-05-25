@@ -1,0 +1,23 @@
+"""Structure du code."""
+
+
+Fonctionnalités:
+- Un film possède un nom, une date de création et un lieu (bibliothèque ou chez un ami)
+- Il existe deux types de films : VHF et DVD
+- Chaque film est listé dans ma bibliothèque virtuelle. Ils sont triés par date et par nom
+- Je peux aussi trier la liste par type de film
+- Je peux récupérer un film par hasard
+- J'ai des amis qui possédent un nom et éventuellement un film que je leur ai prêté
+- Je peux avoir la liste des films prêtés
+- Je peux savoir qui possède un de mes films
+
+
+
+
+
+chapitre3_exercise2
+|
+|
+films       main.py 
+|
+|
